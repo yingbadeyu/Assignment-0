@@ -1,0 +1,19 @@
+$ python3 intro.py
+Ask me a question: What is your name?
+It is Arthur, King of the Britons.
+
+$ python3 intro.py
+Ask me a question: What is your quest?
+To seek the holy grail.
+
+$ python3 intro.py
+Ask me a question: What is the airspeed velocity of an unladen swallow?
+(error: unknown question) What do you mean? African or European swallow?
+
+$ python3 intro.py
+Ask me a question: What can you answer?
+What is your name?
+What is your quest?
+What do you do in your free time?
+What else would you like to tell us that you haven't already expressed through the application?
+What are you most excited to learn about this quarter?
